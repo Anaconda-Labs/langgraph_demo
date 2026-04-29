@@ -3,9 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.13.5
+  - python=3.13.9
   - jupyter=1.1.1
-  - notebook=7.2.2
-  - langgraph=0.2.70
-  - langchain-anthropic=0.3.7
-  - langchain-core=0.3.28
+  - notebook=7.3.2
+  - ipykernel=7.1.0
+  - langgraph=1.0.3
+  - langchain-anthropic=1.0.3
+  - langchain-core=1.0.4
+  - langgraph-checkpoint=3.0.0
