@@ -1,6 +1,6 @@
 # Document Policy Compliance Checker with Human-in-the-Loop
 
-[![Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Anaconda-Labs/langgraph_demo/main/.github/badges/status.json?0&cacheSeconds=300)](https://github.com/Anaconda-Labs/langgraph_demo)
+[![Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Anaconda-Labs/langgraph_demo/main/.github/badges/status.json?1777499890&cacheSeconds=300)](https://github.com/Anaconda-Labs/langgraph_demo)
 
 
 **Status:** Active  
