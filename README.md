@@ -33,7 +33,7 @@ Even smart AI systems need human oversight, especially for:
 
 This tutorial shows you how to build workflows where AI handles the tedious scanning work while humans make the final decisions.
 
-## What You'll Learn
+## Learning Objectives
 
 - **LangGraph fundamentals**: State management, nodes, edges, and checkpointers
 - **Human-in-the-loop patterns**: Using `interrupt()` and `Command(resume=...)` to pause and resume workflows
