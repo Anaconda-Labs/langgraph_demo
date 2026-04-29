@@ -1,5 +1,10 @@
 # Document Policy Compliance Checker with Human-in-the-Loop
 
+**Status:** Active  
+**Owner:** Daina Bouquin ([@dbouquin](https://github.com/dbouquin))  
+**Last Tested:** 2026-04-29  
+**Time to Complete:** 45-60 minutes
+
 A beginner-friendly tutorial demonstrating how to build AI workflows with human oversight using LangGraph.
 
 ## Overview
@@ -45,12 +50,21 @@ This tutorial shows you how to build workflows where AI handles the tedious scan
 **Optional**: Anthropic API key for Part 2 (LLM-enhanced version)
 - Get one at https://console.anthropic.com
 
-## Installation using conda 
+## Installation
+
+### Using conda (recommended)
+
+```bash
+conda env create -f environment.yml
+conda activate langgraph-tutorial
+```
+
+### Alternative: Manual installation
 
 ```bash
 conda create -n langgraph-tutorial python=3.13
 conda activate langgraph-tutorial
-conda install -c conda-forge langgraph langchain-anthropic -y
+conda install -c conda-forge langgraph=0.2.70 langchain-anthropic=0.3.7 -y
 ```
 
 ## Quick Start

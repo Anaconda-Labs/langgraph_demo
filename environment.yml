@@ -1,0 +1,11 @@
+name: langgraph-tutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13.5
+  - jupyter=1.1.1
+  - notebook=7.2.2
+  - langgraph=0.2.70
+  - langchain-anthropic=0.3.7
+  - langchain-core=0.3.28
